@@ -1,6 +1,6 @@
 import React from "react";
 import { Box } from "../../assets/ui";
-import StepSlider from "../../components/StepSlider";
+import StepSlider from "../../components/StepSlider"; 
 import styled from "styled-components";
 
 const sliderData = [
